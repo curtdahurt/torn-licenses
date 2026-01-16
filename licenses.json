@@ -1,0 +1,18 @@
+[
+  {
+    "license_id": "MC-IND-0001",
+    "type": "individual",
+    "user_id": 123456,
+    "faction_id": null,
+    "tier": "trader",
+    "status": "active",
+    "issued": "2026-01-01",
+    "expires": "2026-02-01",
+    "features": {
+      "newbie": true,
+      "trader": true,
+      "profit": true,
+      "branding": false
+    }
+  }
+]
